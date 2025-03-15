@@ -12,7 +12,9 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+html {
+  height: 100%;
+}
 a {
   font-weight: 500;
   color: #646cff;
@@ -62,6 +64,6 @@ button:focus-visible {
 .section {
   width: 80%;
   text-align: left;
-  padding: 15px 50px;
+  padding: 0 50px;
   margin: 0 auto;
 }

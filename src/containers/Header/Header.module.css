@@ -2,6 +2,10 @@
   background-color: black;
   color: #fff;
 }
+
+.header h1 {
+  font-size: 35px;
+}
 .accent {
-  border: 3px solid rgb(151, 35, 35);
+  border: 3px solid rgb(116, 112, 112);
 }

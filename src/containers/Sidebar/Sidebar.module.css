@@ -1,8 +1,10 @@
 .sidebar {
   width: 30%;
-  padding: 10px 25px;
+  padding: 0 25px;
+  background-color: rgba(185, 185, 185, 0.89);
 }
 .sidebar__link {
   list-style: square;
   margin-bottom: 15px;
+  font-size: 10px;
 }
