@@ -1,0 +1,13 @@
+.main {
+  min-height: 400px;
+  background-color: #fff;
+  color: #000;
+  display: flex;
+  gap: 25px;
+}
+.accent {
+  border: 3px solid rgb(151, 35, 35);
+}
+.articles__container {
+  width: 70%;
+}

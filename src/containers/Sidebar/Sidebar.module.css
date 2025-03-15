@@ -1,0 +1,8 @@
+.sidebar {
+  width: 30%;
+  padding: 10px 25px;
+}
+.sidebar__link {
+  list-style: square;
+  margin-bottom: 15px;
+}

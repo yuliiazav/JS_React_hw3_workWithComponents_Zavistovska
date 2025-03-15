@@ -1,0 +1,14 @@
+.article {
+  padding: 10px 25px;
+  margin-bottom: 5px;
+  color: rgb(84, 89, 91);
+}
+
+.article__title {
+  font-family: 30px;
+  color: #000;
+}
+
+.article__text {
+  font-size: 20px;
+}
